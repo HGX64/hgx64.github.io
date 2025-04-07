@@ -430,7 +430,7 @@ su root
 Y somos **root** 😎
 
 <p align="center">
-<img src="/assets/images/pg-writeup-extplorer/leonardo-dicaprio-clapping.gif">
+<img src="/assets/images/leonardo-dicaprio-clapping.gif">
 </p>
 
 ¡Perfecto, máquina completada 🥳! Gracias por leer el post, espero haber sido de ayuda. Si te gusta mi contenido, puedes encontrarme en LinkedIn y GitHub, donde suelo subir herramientas útiles.
