@@ -10,12 +10,11 @@ header:
   icon: /assets/images/hacked.webp
 categories:
   - Proving Grounds Practice
-  - FileManager Web
-tags:
   - OSCP
-  - Web Exploiting
-  - Privilege Escalation
-  - Pentesting
+tags:
+  - Fuzzing Web
+  - FileManager
+  - Disk Group Abuse - Privilege Escalation
 ---
 
 El comienzo fue bastante sencillo. Al hacer fuzzing de URLs en el servidor web, encontramos una ruta interesante que utiliza credenciales por defecto. Ahora vamos a ver el proceso.
