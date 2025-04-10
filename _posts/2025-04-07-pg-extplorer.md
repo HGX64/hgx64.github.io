@@ -13,6 +13,7 @@ categories:
   - OSCP
 tags:
   - Fuzzing Web
+  - Pentesting
   - FileManager
   - Disk Group Abuse - Privilege Escalation
 ---
