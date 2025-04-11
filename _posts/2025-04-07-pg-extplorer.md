@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/pg-writeup-extplorer/pg_writeup_extplorer.webp
   teaser_home_page: true
-  icon: /assets/images/hacked.webp
+  icon: /assets/images/linux_logo.webp
 categories:
   - Proving Grounds Practice
   - OSCP
